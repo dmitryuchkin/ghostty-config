@@ -8,5 +8,3 @@ font-size = 14
 
 macos-titlebar-style = hidden
 macos-option-as-alt = true
-
-command = /opt/homebrew/bin/fish
