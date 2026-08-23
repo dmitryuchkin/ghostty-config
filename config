@@ -1,10 +1,11 @@
 theme = Catppuccin Mocha
-background-opacity = 0.95
+
+background-opacity = 0.9
 background-blur = true
-mouse-hide-while-typing = true
 
 font-family = Monaspace Krypton
 font-size = 14
 
 macos-titlebar-style = hidden
 macos-option-as-alt = true
+mouse-hide-while-typing = true
