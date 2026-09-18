@@ -3,7 +3,7 @@ theme = Catppuccin Mocha
 background-opacity = 0.9
 background-blur = true
 
-font-family = Monaspace Krypton
+font-family = Monaspace Krypton NF
 font-size = 14
 
 macos-titlebar-style = hidden
