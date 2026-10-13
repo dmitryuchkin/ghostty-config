@@ -3,9 +3,25 @@ theme = Catppuccin Mocha
 background-opacity = 0.9
 background-blur = true
 
-font-family = Monaspace Krypton NF
+font-family = Monaspace Krypton
 font-size = 14
 
-macos-titlebar-style = hidden
 macos-option-as-alt = true
+
 mouse-hide-while-typing = true
+
+keybind = ctrl+a>l=new_split:right
+keybind = ctrl+a>j=new_split:down
+keybind = ctrl+a>h=new_split:left
+keybind = ctrl+a>k=new_split:up
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+j=goto_split:down
+keybind = ctrl+k=goto_split:up
+keybind = ctrl+l=goto_split:right
+keybind = ctrl+a>m=toggle_split_zoom
+keybind = ctrl+a>x=close_surface
+keybind = cmd+t=new_tab
+keybind = ctrl+shift+h=resize_split:left,20
+keybind = ctrl+shift+j=resize_split:down,20
+keybind = ctrl+shift+k=resize_split:up,20
+keybind = ctrl+shift+l=resize_split:right,20
