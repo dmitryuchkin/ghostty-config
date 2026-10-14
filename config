@@ -1,9 +1,11 @@
 theme = Catppuccin Mocha
 
+command = /opt/homebrew/bin/fish
+
 background-opacity = 0.9
 background-blur = macos-glass-clear
 
-font-family = Monaspace Krypton
+font-family = Monaspace Krypton NF
 font-size = 14
 
 macos-option-as-alt = true
